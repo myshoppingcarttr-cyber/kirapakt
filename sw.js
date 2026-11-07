@@ -1,4 +1,4 @@
-// KiraPakt service worker: yalnızca /kirapakt/ kapsamındaki GET isteklerini önbelleğe alır.
+// KiraPakt service worker: yalnızca sitenin kendi kapsamındaki (basePath) GET isteklerini önbelleğe alır.
 // Sayfalar önce ağdan gelir, böylece yeni sürüm hemen görünür; çevrimdışıyken önbellek kullanılır.
 const VERSION = "v1";
 const PAGES = `kirapakt-sayfalar-${VERSION}`;
