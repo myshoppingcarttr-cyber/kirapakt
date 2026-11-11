@@ -35,7 +35,7 @@
       "purpose": "maskable"
     }
   ],
-  "description": "Kiracılar nakit depozito bağlamadan taşınır; kira PayTR altyapısıyla tahsil edildiği gün doğrudan ev sahibinin IBAN'ına aktarılır. Ön izleme: hizmet henüz aktif değildir.",
+  "description": "Kiracılar nakit depozito bağlamadan taşınır; kira, PayTR Pazaryeri altyapısıyla kiracının kartından tahsil edilir ve doğrudan ev sahibinin IBAN'ına aktarılır; KiraPakt'ın hesabına girmez. Ön izleme: hizmet henüz aktif değildir.",
   "categories": [
     "finance",
     "lifestyle",
