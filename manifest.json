@@ -1,5 +1,5 @@
 {
-  "name": "KiraPakt - Garantili Kira & Depozitosuz Yaşam",
+  "name": "KiraPakt - Depozitosuz Kiralama ve Dijital Kira Yönetimi",
   "short_name": "KiraPakt",
   "id": "./",
   "start_url": "./",
@@ -35,7 +35,7 @@
       "purpose": "maskable"
     }
   ],
-  "description": "Kiracılar nakit depozito ödemeden taşınır, ev sahipleri kirasını gününde alır. Kira güvence platformu (ön izleme).",
+  "description": "Kiracılar nakit depozito bağlamadan taşınır; kira PayTR altyapısıyla tahsil edildiği gün doğrudan ev sahibinin IBAN'ına aktarılır. Ön izleme: hizmet henüz aktif değildir.",
   "categories": [
     "finance",
     "lifestyle",
@@ -68,7 +68,7 @@
       ]
     },
     {
-      "name": "Kira güvencesini hesapla",
+      "name": "Taşınma gününü hesapla",
       "short_name": "Hesapla",
       "url": "./#hesapla",
       "icons": [
@@ -105,7 +105,7 @@
       "sizes": "780x1688",
       "type": "image/png",
       "form_factor": "narrow",
-      "label": "Kira güvencesi ve erken nakit hesabı"
+      "label": "Taşınma günü hesaplayıcı"
     },
     {
       "src": "ekran/rehber.png",

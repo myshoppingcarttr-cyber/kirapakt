@@ -1,6 +1,6 @@
 # KİRAPAKT
 
-> Türkiye'de konut kiralayan kiracılar, ev sahipleri ve emlak ofisleri için kira güvence platformu prototipi. Site ön izleme aşamasındadır: gerçek ödeme, garanti veya poliçe sunulmaz.
+> Türkiye'de konut kiralayan kiracılar, ev sahipleri ve emlak ofisleri için depozitosuz kiralama ve dijital kira yönetimi platformu. Site ön izleme aşamasındadır; hizmet henüz aktif değildir, ödeme alınmaz, poliçe düzenlenmez. KiraPakt kira bedelini kendi hesabında tutmaz ve kendi kasasından ödeme taahhüdü vermez: kira, TCMB lisanslı PayTR altyapısıyla tahsil edildiği gün doğrudan ev sahibinin IBAN'ına aktarılır. KiraPakt avukatlık hizmeti vermez; yasal takibi ev sahibinin kendi avukatı yürütür. Sigorta teminatları yalnız yetkili sigorta şirketi ve acentesi aracılığıyla sunulacaktır. KiraPakt isteğe bağlıdır; klasik depozito seçeneği her zaman mevcuttur.
 
 Kira rehberi yazıları Türk Borçlar Kanunu, Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu, İcra ve İflas Kanunu ve Gelir İdaresi Başkanlığı kaynaklarına dayanır. Her yazı kısa bir cevapla başlar, kaynaklarını ve güncellenme tarihini gösterir.
 
@@ -21,7 +21,7 @@ Kira rehberi yazıları Türk Borçlar Kanunu, Hukuk Uyuşmazlıklarında Arabul
 
 ## Sayfalar
 
-- [Ana sayfa ve kira güvence simülatörü](https://kirapakt.com/)
+- [Ana sayfa ve taşınma günü hesaplayıcı](https://kirapakt.com/)
 - [Kiracı başvurusu (ön izleme)](https://kirapakt.com/basvuru/)
 - [Mülk ekle (ön izleme)](https://kirapakt.com/mulk-ekle/)
 - [Emlak ofisleri](https://kirapakt.com/emlak-ofisi/)
