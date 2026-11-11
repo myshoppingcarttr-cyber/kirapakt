@@ -1,6 +1,6 @@
 // KiraPakt service worker: yalnızca sitenin kendi kapsamındaki (basePath) GET isteklerini önbelleğe alır.
 // Sayfalar önce ağdan gelir, böylece yeni sürüm hemen görünür; çevrimdışıyken önbellek kullanılır.
-const VERSION = "v1";
+const VERSION = "v2"; // v2: yeni logo ikonları (11 Kas 2026); eski önbellek etkinleşmede silinir
 const PAGES = `kirapakt-sayfalar-${VERSION}`;
 const ASSETS = `kirapakt-dosyalar-${VERSION}`;
 const BASE = new URL("./", self.location).pathname;
@@ -9,8 +9,8 @@ const PRECACHE = [
   BASE,
   OFFLINE,
   `${BASE}manifest.json`,
-  `${BASE}icons/icon-192.png`,
-  `${BASE}icons/icon-512.png`,
+  `${BASE}icons/kirapakt-192.png`,
+  `${BASE}icons/kirapakt-512.png`,
   `${BASE}sequence/m/f0001.webp`,
   `${BASE}sequence/d/f0001.webp`,
 ];
