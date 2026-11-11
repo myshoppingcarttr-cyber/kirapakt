@@ -7,4 +7,4 @@
 :HL["/_next/static/media/general_sans_700-s.p.388hnitoey2se.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"kvkk-aydinlatma-metni","h":64,"c":"$Q2"}]]
-0:{"b":"am8HCVquwrQVSzg7VOOur","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"cGzFLoNnO3jHLC8Q3pgNn","t":{"t":{"s":"","h":16,"c":"$Q1"}}}

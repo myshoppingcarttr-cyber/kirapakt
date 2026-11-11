@@ -8,4 +8,4 @@
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"kira-depozitosu-ne-kadar-olabilir","s":[]},"h":65632,"c":"$Q3"}]]
 1:[["children",{"s":"blog","h":131136,"c":"$Q2"}]]
-0:{"b":"am8HCVquwrQVSzg7VOOur","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
+0:{"b":"cGzFLoNnO3jHLC8Q3pgNn","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
